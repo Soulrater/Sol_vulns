@@ -1,2 +1,2 @@
 # Sol_vulns
-A repository of vulnerabilities I find on Solana projects
+A repository of Solana related project vulnerabilities I find intentionally or by mistake
